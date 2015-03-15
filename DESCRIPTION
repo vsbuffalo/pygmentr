@@ -1,0 +1,8 @@
+Package: pygmentr
+Title: Python Pygments from R
+Version: 0.0.0.1
+Authors@R: 'Vince Buffalo <vsbuffaloAAAAA@gmail.com> [aut, cre]'
+Description: Pygments from R.
+Depends: R (>= 3.1.2)
+License: BSD
+LazyData: true
